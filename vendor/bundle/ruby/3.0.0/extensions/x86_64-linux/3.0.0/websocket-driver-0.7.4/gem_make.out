@@ -1,0 +1,18 @@
+current directory: /home/dan/Development/phase4/phase-4-mock-challenge-camping-fun/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.4/ext/websocket-driver
+/home/dan/.rbenv/versions/3.0.0/bin/ruby -I /home/dan/.rbenv/versions/3.0.0/lib/ruby/site_ruby/3.0.0 extconf.rb
+creating Makefile
+
+current directory: /home/dan/Development/phase4/phase-4-mock-challenge-camping-fun/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.4/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230322-7242-ifmi39 sitelibdir\=./.gem.20230322-7242-ifmi39 clean
+
+current directory: /home/dan/Development/phase4/phase-4-mock-challenge-camping-fun/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.4/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230322-7242-ifmi39 sitelibdir\=./.gem.20230322-7242-ifmi39
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/dan/Development/phase4/phase-4-mock-challenge-camping-fun/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.4/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230322-7242-ifmi39 sitelibdir\=./.gem.20230322-7242-ifmi39 install
+/bin/install -c -m 0755 websocket_mask.so ./.gem.20230322-7242-ifmi39
+
+current directory: /home/dan/Development/phase4/phase-4-mock-challenge-camping-fun/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.4/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230322-7242-ifmi39 sitelibdir\=./.gem.20230322-7242-ifmi39 clean
